@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="app_delete">suprimer</string>
+    <string name="app_annuler">annuler</string>
+    <string name="app_pop_r"> Suprimer</string>
+    <string name="quitter"> appuyez encore pour quiter</string>
+    <string name="app_popup">Voulez-vous vraiment suprimer</string>
+</resources>
